@@ -1,0 +1,16 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore IDE settings
+.idea/
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
+
+# Ignore user-specific directories
+Desktop/
+Downloads/
+Documents/
+Pictures/
+...
