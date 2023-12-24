@@ -1,2 +1,2 @@
 # salih-otomasyon
-salih.ozcelik
+Test otomasyon projesi çalışmaları burada yapılacaktır. 
